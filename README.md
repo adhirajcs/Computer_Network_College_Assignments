@@ -1,6 +1,6 @@
 # MCA Network and Linux College Assignements
 
-This repository contains all my college assignments of the subject called Networking, which also includes Linux assignments.
+This repository contains all my college assignments of the subject called Computer Network, which also includes Linux assignments.
 
 ## Syllabus
 

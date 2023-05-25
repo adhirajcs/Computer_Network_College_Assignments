@@ -32,3 +32,11 @@ public class EchoClient
 	p.close();
   }
 }
+
+
+/* OUTPUT - 
+
+The Server has reserved port No.: 1342 for this Service
+Client with IP Address /127.0.0.1
+
+ */
